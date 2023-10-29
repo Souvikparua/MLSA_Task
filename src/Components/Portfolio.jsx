@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/book.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Books image in the reading mode";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Portfolio Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my blog website where i update tech news and coding answers.",
+    url: "https://souvikparua.github.io/Portfolio23/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Music Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Here you can hear your favorite musics and enjoying",
+    url: "https://sangeet-music25.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "My Blog Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is my blog website where i update tech news and coding answers.",
+    url: "https://www.linkedin.com/in/souvik-parua-bb031a230",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My YouTube",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Here I upload My Videos Related Tech news Also Coding Answers",
+    url: "https://www.youtube.com/channel/UC6yCauPX6Nfx_jV3utspHdg",
   },
 ];
 
